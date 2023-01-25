@@ -4,11 +4,7 @@
 
 <p align="center">When I'm not developing and coding, you can find me watching movies, animes or playing Apex Legends.</p>
 
-<p align="center"><a href="https://www.linkedin.com/in/yann-prigent-bzh44/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-</p>
-
-<p align="center">
-<a href="https://github.com/xan9266"><img src="https://img.shields.io/github/followers/xan9266?style=social"></a>
+<p align="center"><a href="https://www.linkedin.com/in/yann-prigent-bzh44/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://github.com/xan9266"><img src="https://img.shields.io/github/followers/xan9266?style=social" height=25></a>
 </p>
 
 <hr>
