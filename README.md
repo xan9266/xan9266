@@ -5,7 +5,7 @@
 ###
 
 
-<h3 align="center">I'm currently a student pursuing my Bachelor of web development. I'm passionate about areas of cloud computing and web3👨‍💻.<br><br>When I'm not developing and coding, you can find me watching movies, animes or playing Apex Legends.</h3>
+<h3 align="center">I'm currently a student pursuing my Bachelor of web development. I'm passionate about areas of cloud computing and web3👨‍💻.<br><br>When I'm not coding or creating bugs 🤣, you can find me watching movies, animes or playing Apex Legends.</h3>
 
 ***
 
