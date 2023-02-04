@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! My name is Yann and I'm a developer from France.</h1>
+![Header](./github-header-image.png)
 
 ***
 
